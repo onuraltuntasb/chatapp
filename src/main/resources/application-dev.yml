@@ -1,0 +1,40 @@
+
+#createDatabaseIfNotExist=true postgre is not supporting write script
+# serverTimezone=UTC
+# useSSL=false&allowPublicKeyRetrieval=true
+# &rewriteBatchedStatements=true
+
+#&ssl=false&rewriteBatchedStatements=true
+
+spring:
+  datasource:
+    url: 'jdbc:postgresql://localhost:5432/chat_app'
+    username: postgres
+    password: root
+    driver-class-name: org.postgresql.Driver
+  sql:
+    init:
+      mode: always
+      platform: postgresql
+  devtools:
+    livereload:
+      enabled: true
+  security:
+    oauth2:
+      client:
+        registration:
+          # google: removed
+            
+server:
+  port: 8080
+logging:
+  level:
+    org:
+      springframework:
+        jdbc:
+          core=TRACE: info
+
+
+
+
+

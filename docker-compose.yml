@@ -1,0 +1,21 @@
+version: "3.9"
+services:
+
+  postgresdb:
+    image: postgres
+    networks:
+      - postgres-network
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: chat_app
+    volumes:
+      - /var/lib/postgresql/data
+    expose:
+      - "5433"
+    ports:
+      - "5433:5432"
+
+networks:
+  postgres-network:
