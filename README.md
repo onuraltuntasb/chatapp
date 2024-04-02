@@ -146,16 +146,16 @@ Some credits for this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/onuraltuntasb/chatapp-parent.svg?style=for-the-badge
-[contributors-url]: https://github.com/onuraltuntasb/chatapp-parent/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/onuraltuntasb/chatapp-parent.svg?style=for-the-badge
-[forks-url]: https://github.com/onuraltuntasb/chatapp-parent/network/members
-[stars-shield]: https://img.shields.io/github/stars/onuraltuntasb/chatapp-parent.svg?style=for-the-badge
-[stars-url]: https://github.com/onuraltuntasb/chatapp-parent/stargazers
-[issues-shield]: https://img.shields.io/github/issues/onuraltuntasb/chatapp-parent.svg?style=for-the-badge
-[issues-url]: https://github.com/onuraltuntasb/chatapp-parent/issues
-[license-shield]: https://img.shields.io/github/license/onuraltuntasb/chatapp-parent.svg?style=for-the-badge
-[license-url]: https://github.com/onuraltuntasb/chatapp-parent/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/onuraltuntasb/chatapp.svg?style=for-the-badge
+[contributors-url]: https://github.com/onuraltuntasb/chatapp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/onuraltuntasb/chatapp.svg?style=for-the-badge
+[forks-url]: https://github.com/onuraltuntasb/chatapp/network/members
+[stars-shield]: https://img.shields.io/github/stars/onuraltuntasb/chatapp.svg?style=for-the-badge
+[stars-url]: https://github.com/onuraltuntasb/chatapp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/onuraltuntasb/chatapp.svg?style=for-the-badge
+[issues-url]: https://github.com/onuraltuntasb/chatapp/issues
+[license-shield]: https://img.shields.io/github/license/onuraltuntasb/chatapp.svg?style=for-the-badge
+[license-url]: https://github.com/onuraltuntasb/chatapp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/onur-altuntas1
 [codebase]: readme-assets/chatapp-postman.png
